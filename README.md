@@ -1,7 +1,7 @@
 <b> Pleasure to meet you, everyone! </b>
 ---
-Nice to meet you! I'm an active Game Application and Technology Major Student 🎮☺
-You can call me...
+I'm an active Game Application and Technology Major Student 🎮☺
+<h5> You can call me... </h5>
 <h3>Juan Xavier Soegiarto</h3>
  
 <table width="100%">
@@ -13,8 +13,8 @@ You can call me...
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Across-Java.gif"/></td>
-      <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Plant Growth.gif"/></td>
+      <td><img src="https://github.com/LookADonKill/LookADonKill/pameran/main/Across-Java.gif"/></td>
+      <td><img src="https://github.com/LookADonKill/LookADonKill/pameran/main/Plant Growth.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">Across Java is a typing, platformer indie video game that follow Gatotkaca, our main protagonist on his journey towards Bima. Across Java followed a story of Gatotkaca’s moments before his eventual demise, though the time of that said demise was uncertain.</td>
