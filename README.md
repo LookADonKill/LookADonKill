@@ -15,7 +15,7 @@ My name is Juan Xavier Soegiarto and I'm an active Game Application and Technolo
     <tr>
       <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Determined-Path.PNG"/></td>
       <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Plant_Growth.gif"/></td>
-     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Mario-Judah.PNG"/></td>
+     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Mario-Judah.png"/></td>
      <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Rupture.png"/></td>
     </tr>
     <tr>
@@ -27,6 +27,24 @@ My name is Juan Xavier Soegiarto and I'm an active Game Application and Technolo
     <tr>
       <td align="center"><a href="https://juan-xavier.itch.io/determined-path">Itch Page</td>
       <td align="center"><a href="https://juan-xavier.itch.io/5-year-from-now">Itch Page</td>
+      <td align="center"><a href="https://juan-xavier.itch.io/mario-judah">Itch Page</td>
+      <td align="center"><a href="https://juan-xavier.itch.io/rupture">Itch Page</td>
+    </tr>
+    <tr>
+     <th width="50%" align="center"><b>Mario Judah</b></th>
+     <th width="50%" align="center"><b>Rupture</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Mario-Judah.png"/></td>
+     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Rupture.png"/></td>
+    </tr>
+    <tr>
+     <td valign="text-top">Mario Judah is a 2D platformer game, another take of another well known famous video game franchise. It was a game that followed Mario Judah's escape from his own nightmare, lurking from behind and closing in. Watch your steps and make sure to reach the end!</td>
+     <td valign="text-top">Rupture is a shooter game where it's only you against the hordes of beasts. Rupture followed a man who trapped in a land with nowhere to run. He glanced ahead, noticing the enemy sudden appearance. They were fierce and murderous. Survive the horde and live to tell the tale!</td>
+    </tr>
+    <tr>
       <td align="center"><a href="https://juan-xavier.itch.io/mario-judah">Itch Page</td>
       <td align="center"><a href="https://juan-xavier.itch.io/rupture">Itch Page</td>
     </tr>
