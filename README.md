@@ -15,7 +15,7 @@ My name is Juan Xavier Soegiarto and I'm an active Game Application and Technolo
     <tr>
       <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Determined-Path.PNG"/></td>
       <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Plant_Growth.gif"/></td>
-     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Mario-Judah.jpg"/></td>
+     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Mario-Judah.PNG"/></td>
      <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Rupture.png"/></td>
     </tr>
     <tr>
