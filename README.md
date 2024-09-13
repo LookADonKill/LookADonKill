@@ -11,7 +11,7 @@ My name is Juan Xavier Soegiarto and I'm an active Game Application and Technolo
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Determined-Path.PNG"/></td>
+      <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Determined-Path.gif"/></td>
       <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Plant_Growth.gif"/></td>
     </tr>
     <tr>
@@ -29,8 +29,8 @@ My name is Juan Xavier Soegiarto and I'm an active Game Application and Technolo
   </thead>
   <tbody>
     <tr>
-     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Mario-Judah.png"/></td>
-     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Rupture.png"/></td>
+     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Mario-Judah.gif"/></td>
+     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Rupture.gif"/></td>
     </tr>
     <tr>
      <td valign="text-top">Mario Judah is a 2D platformer game, another take of another well known famous video game franchise. It was a game that followed Mario Judah's escape from his own nightmare, lurking from behind and closing in. Watch your steps and make sure to reach the end!</td>
