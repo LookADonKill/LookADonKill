@@ -1,6 +1,8 @@
 <b> Pleasure to meet you, everyone! </b>
 ---
 My name is Juan Xavier Soegiarto and I'm an active Game Application and Technology Major Student 🎮☺
+I am a Game Designer, striving to further learn and improve
+My greatest joy was to ensure that my co-workers would have a pleasent time of understanding my vision and giving them room to also implement theirs.
  
 <table width="100%">
   <thead>
