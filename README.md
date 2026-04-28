@@ -3,44 +3,38 @@
 My name is Juan Xavier Soegiarto and I'm a Bachelor of Computer Science from Bina Nusantara University.
 I am a Software Engineer, having great passion in building robust and scalable systems than implement SOLID principle.
 I believe the importance communicating and collaborating with my team in order to create the best possible product.
- 
+
+<b> My Projects </b>
+---
 <table width="100%">
   <thead>
     <tr>
-     <th width="50%" align="center"><b>Determined Path</b></th>
-     <th width="50%" align="center"><b>5 Years From Now</b></th>
+     <th width="50%" align="center"><b>Stocks Game</b></th>
+     <th width="50%" align="center"><b>China Translator</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Determined-Path.gif"/></td>
-      <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Plant_Growth.gif"/></td>
+      <td valign="text-top">Stocks Game is a project that utilized Python to calculate the stock prediction system and put it within both HTML and Unity to display the data, utilizing its capabilities in the UI/UX fields. To add, Stocks Game stores data by using MySQL, ensuring dynamic storage that is able to be accessed from different devices.</td>
+     <td valign="text-top">China Translator is a Prototype made with Python to translate either from English to Mandarin or vice versa. It utilizes deep-translator to access the google translate and implements Threading to increase efficiency, allowing more precision in the translation.</td>
     </tr>
     <tr>
-      <td valign="text-top">Determined Path is a Serious Game, telling a story about Andi's journey as a bus driver. Enjoy each and every moments within the game as you drove through the city and don't forget to keep your eyes peeled for the exquisite landmarks!</td>
-     <td valign="text-top">5 Years From Now, an idea. For the time being, the game had stopped growing. Though, don't count us out yet. Like those plants within, it will soon bloomed over and sprouted the skies with Oxygen!</td>
+      <td align="center"><a href="https://github.com/LookADonKill/stocks-game">Github Repository</td>
+      <td align="center"><a href="https://github.com/LookADonKill/china-translator">Github Repository</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://juan-xavier.itch.io/determined-path">Itch Page</td>
-      <td align="center"><a href="https://juan-xavier.itch.io/5-year-from-now">Itch Page</td>
-    </tr>
-    <tr>
-     <th width="50%" align="center"><b>Mario Judah</b></th>
-     <th width="50%" align="center"><b>Rupture</b></th>
+     <th width="50%" align="center"><b>Begone Anxiety</b></th>
+     <th width="50%" align="center"><b>Investopolis</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Mario-Judah.gif"/></td>
-     <td><img src="https://github.com/LookADonKill/LookADonKill/blob/main/Rupture.gif"/></td>
+     <td valign="text-top">Begone Anxiety is a free-roam open world 3D game. It utilizes Unity Fungus Extension to create dialogues and story flows, AI to control the NPC's movements, and interactive minimap created by using cameras. Tackling these things were demanding, however it's managable by utilizing SOLID principles within the codes along with singletons to prevent codes from running more than once.</td>
+     <td valign="text-top">Investopolis is a City-Builder 3D game. It implements Uility AI within each and every NPC, providing them with the ability to think for themselves. To add, Investopolis uses simple and designer-friendly Grid System to efficiently create progressions.</td>
     </tr>
     <tr>
-     <td valign="text-top">Mario Judah is a 2D platformer game, another take of another well known famous video game franchise. It was a game that followed Mario Judah's escape from his own nightmare, lurking from behind and closing in. Watch your steps and make sure to reach the end!</td>
-     <td valign="text-top">Rupture is a shooter game where it's only you against the hordes of beasts. Rupture followed a man who trapped in a land with nowhere to run. He glanced ahead, noticing the enemy sudden appearance. They were fierce and murderous. Survive the horde and live to tell the tale!</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://juan-xavier.itch.io/mario-judah">Itch Page</td>
-      <td align="center"><a href="https://juan-xavier.itch.io/rupture">Itch Page</td>
+      <td align="center"><a href="https://github.com/wahyuwerayana/Begone-Anxiety">Github Repository</td>
+      <td align="center"><a href="https://github.com/wahyuwerayana/Project-Government-Investopolis">Github Repository</td>
     </tr>
   </tbody>
 </table>
