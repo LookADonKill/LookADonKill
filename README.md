@@ -1,8 +1,8 @@
 <b> Pleasure to meet you, everyone! </b>
 ---
-My name is Juan Xavier Soegiarto and I'm an Computer Science Student
-I am a Software Engineer, having great passion in building systems
-I enjoyed communicating and collaborating with my team, ensuring to enact our vision.
+My name is Juan Xavier Soegiarto and I'm a Bachelor of Computer Science from Bina Nusantara University.
+I am a Software Engineer, having great passion in building robust and scalable systems than implement SOLID principle.
+I believe the importance communicating and collaborating with my team in order to create the best possible product.
  
 <table width="100%">
   <thead>
